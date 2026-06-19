@@ -16,6 +16,7 @@
   "llm_model": "google/gemini-3.1-flash-lite",
   "llm_model_strong": "google/gemini-3.1-flash-lite",
   "llm_batch_size": 5,
+  "proofread_chapters": 2,
   "pg_images": [],
   "translator": null,
   "book_type": "epic-poetry",
