@@ -1,2 +1,312 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
+
+/*
+ * Impression Editions — Novel CSS Template
+ * Derived from Standard Ebooks' Anna Katharine Green "The Sword of Damocles"
+ * For standard prose novels with potential epigraphs, poetry inserts, and letters
+ */
+
+/* === FOREIGN LANGUAGE === */
+body [xml|lang]{
+	font-style: italic;
+}
+
+/* === DEDICATIONS === */
+[epub|type~="dedication"]{
+	font-variant: small-caps;
+}
+
+#dedication b{
+	text-transform: uppercase;
+}
+
+section[epub|type~="dedication"]{
+	text-align: center;
+}
+
+section[epub|type~="dedication"] > *{
+	display: inline-block;
+	margin: auto;
+	margin-top: 3em;
+	max-width: 80%;
+}
+
+@supports(display: flex){
+	section[epub|type~="dedication"]{
+		align-items: center;
+		box-sizing: border-box;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		min-height: calc(98vh - 3em);
+		padding-top: 3em;
+	}
+
+	section[epub|type~="dedication"] > *{
+		margin: 0;
+	}
+}
+
+/* === ALL EPIGRAPHS === */
+[epub|type~="epigraph"]{
+	font-style: italic;
+	hyphens: none;
+	-epub-hyphens: none;
+}
+
+[epub|type~="epigraph"] i{
+	font-style: normal;
+}
+
+[epub|type~="epigraph"] cite{
+	font-style: normal;
+	font-variant: small-caps;
+	margin-top: 1em;
+}
+
+[epub|type~="epigraph"] cite i{
+	font-style: italic;
+}
+
+/* === FULL-PAGE EPIGRAPHS === */
+section[epub|type~="epigraph"]{
+	text-align: center;
+}
+
+section[epub|type~="epigraph"] > *{
+	display: inline-block;
+	margin: auto;
+	margin-top: 3em;
+	max-width: 80%;
+	text-align: initial;
+}
+
+@supports(display: flex){
+	section[epub|type~="epigraph"]{
+		align-items: center;
+		box-sizing: border-box;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		min-height: calc(98vh - 3em);
+		padding-top: 3em;
+	}
+
+	section[epub|type~="epigraph"] > *{
+		margin: 0;
+	}
+
+	section[epub|type~="epigraph"] > * + *{
+		margin-top: 3em;
+	}
+}
+
+/* === EPIGRAPHS IN SECTION HEADERS === */
+section > header [epub|type~="epigraph"]{
+	display: inline-block;
+	margin: auto;
+	max-width: 80%;
+	text-align: initial;
+}
+
+section > header [epub|type~="epigraph"] + *{
+	margin-top: 3em;
+}
+
+@supports(display: table){
+	section > header [epub|type~="epigraph"]{
+		display: table;
+	}
+}
+
+/* === POETRY (embedded in prose) === */
+[epub|type~="z3998:poem"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br{
+	display: none;
+}
+
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
+p span.i2{
+	padding-left: 3em;
+	text-indent: -1em;
+}
+
+p span.i4{
+	padding-left: 5em;
+	text-indent: -1em;
+}
+
+p span.i6{
+	padding-left: 7em;
+	text-indent: -1em;
+}
+
+p span.i8{
+	padding-left: 9em;
+	text-indent: -1em;
+}
+
+p span.i12{
+	padding-left: 13em;
+	text-indent: -1em;
+}
+
+/* === DRAMA / DIALOGUE TABLES === */
+table[epub|type~="z3998:drama"]{
+	border-collapse: collapse;
+	margin: 1em auto;
+	width: 100%;
+}
+
+[epub|type~="z3998:drama"] tr:first-child td{
+	padding-top: 0;
+}
+
+[epub|type~="z3998:drama"] tr:last-child td{
+	padding-bottom: 0;
+}
+
+[epub|type~="z3998:drama"] td{
+	padding: .5em;
+	vertical-align: top;
+}
+
+[epub|type~="z3998:drama"] td:last-child{
+	padding-right: 0;
+}
+
+[epub|type~="z3998:drama"] td:first-child{
+	padding-left: 0;
+}
+
+[epub|type~="z3998:drama"] td[epub|type~="z3998:persona"]{
+	font-style: normal;
+	hyphens: none;
+	-epub-hyphens: none;
+	text-align: right;
+	width: 20%;
+}
+
+[epub|type~="z3998:stage-direction"]{
+	font-style: italic;
+}
+
+[epub|type~="z3998:stage-direction"]::before{
+	content: "(";
+	font-style: normal;
+}
+
+[epub|type~="z3998:stage-direction"]::after{
+	content: ")";
+	font-style: normal;
+}
+
+[epub|type~="z3998:persona"]{
+	font-variant: all-small-caps;
+}
+
+@media(max-width: 400px){
+	[epub|type~="z3998:drama"] td,
+	[epub|type~="z3998:drama"] td[epub|type~="z3998:persona"],
+	[epub|type~="z3998:drama"] td:last-child{
+		display: block;
+		padding: 0;
+		text-align: initial;
+		width: 100%;
+	}
+
+	[epub|type~="z3998:drama"] td[epub|type~="z3998:persona"]{
+		break-after: avoid;
+		margin-top: 1.5em;
+	}
+
+	[epub|type~="z3998:drama"] td:first-child:not([epub|type]) + td{
+		margin-top: 1.5em;
+	}
+}
+
+/* === LETTERS === */
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
+
+p[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
+
+/* === CONTINUED TEXT (after heading or break) === */
+.continued{
+	text-indent: 0;
+}
+
+/* === BLOCKQUOTES === */
+blockquote{
+	margin: 1em 2.5em;
+}
+
+blockquote p{
+	text-indent: 0;
+}
+
+/* === PAGE BREAKS === */
+section[id$="text"]{
+	break-before: page;
+}
+
+
+/* === ABOUT THE AUTHOR === */
+section#about-the-author{
+	text-align: initial;
+}
+
+section#about-the-author > h2{
+	text-align: center;
+}
+
+section#about-the-author .center,
+section#about-the-author div[style*="text-align:center"]{
+	margin: 0.3em 0 2.5em 0;
+	text-align: center;
+}
+
+figure.author-portrait{
+	margin: 1em auto 2em;
+	text-align: center;
+}
+
+figure.author-portrait img{
+	border-radius: 4px;
+	max-width: 200px;
+}
+
+/* === PUBLISHER LOGO === */
+img.publisher-logo{
+	display: block;
+	margin: 1em auto;
+	max-width: 222px;
+}

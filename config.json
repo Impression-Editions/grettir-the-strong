@@ -18,5 +18,6 @@
   "llm_batch_size": 5,
   "proofread_chapters": 2,
   "pg_images": [],
-  "translator": null
+  "translator": null,
+  "book_type": "novel"
 }
