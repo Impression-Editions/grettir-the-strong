@@ -325,3 +325,11 @@ section[epub|type~="z3998:dedication"] p{
 	margin: auto;
 	text-align: center;
 }
+
+
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
+abbr[epub|type~="z3998:initialism"]{
+	font-variant: all-small-caps;
+}
