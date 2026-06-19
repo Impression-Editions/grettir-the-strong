@@ -1,11 +1,35 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+@font-face{
+	font-family: "Sorts Mill Goudy";
+	font-style: normal;
+	font-weight: normal;
+	src: url("../fonts/SortsMillGoudy-Regular.woff2") format("woff2");
+}
+
+@font-face{
+	font-family: "Sorts Mill Goudy";
+	font-style: italic;
+	font-weight: normal;
+	src: url("../fonts/SortsMillGoudy-Italic.woff2") format("woff2");
+}
+
+@font-face{
+	font-family: "League Spartan";
+	font-style: normal;
+	font-weight: bold;
+	src: url("../fonts/LeagueSpartan-Bold.woff2") format("woff2");
+}
+
+
 body{
 	font-variant-numeric: oldstyle-nums;
 	hyphens: auto;
 	-epub-hyphens: auto;
 	text-wrap: pretty;
+
+	font-family: "Sorts Mill Goudy", serif;
 }
 
 p{
@@ -44,6 +68,8 @@ hgroup{
 	-epub-hyphens: none;
 	margin: 3em 0;
 	text-align: center;
+
+	font-family: "League Spartan", sans-serif;
 }
 
 /* simulate h3 in an hgroup */
