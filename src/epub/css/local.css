@@ -2,12 +2,9 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-/*
- * Impression Editions — Novel CSS Template
+/* * Impression Editions — Novel CSS Template
  * Derived from Standard Ebooks' Anna Katharine Green "The Sword of Damocles"
- * For standard prose novels with potential epigraphs, poetry inserts, and letters
- */
-
+ * For standard prose novels with potential epigraphs, poetry inserts, and letters */
 /* === FOREIGN LANGUAGE === */
 body [xml|lang]{
 	font-style: italic;
@@ -278,7 +275,6 @@ section[id$="text"]{
 	break-before: page;
 }
 
-
 /* === ABOUT THE AUTHOR === */
 section#about-the-author{
 	text-align: initial;
@@ -290,7 +286,7 @@ section#about-the-author > h2{
 
 section#about-the-author .center,
 section#about-the-author div[style*="text-align:center"]{
-	margin: 0.3em 0 2.5em 0;
+	margin: .3em 0 2.5em 0;
 	text-align: center;
 }
 
@@ -314,22 +310,23 @@ img.publisher-logo{
 /* Dedication centering */
 section[epub|type~="dedication"],
 section[epub|type~="z3998:dedication"]{
-	text-align: center;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	min-height: 80vh;
+	text-align: center;
 }
+
 section[epub|type~="dedication"] p,
 section[epub|type~="z3998:dedication"] p{
 	margin: auto;
 	text-align: center;
 }
 
-
 abbr[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
+
 abbr[epub|type~="z3998:initialism"]{
 	font-variant: all-small-caps;
 }

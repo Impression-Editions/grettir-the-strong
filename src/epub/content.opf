@@ -35,7 +35,7 @@
 		<dc:subject id="subject-2">Grettir Ásmundarson, 996-1031 -- Romances</dc:subject>
 		<meta property="authority" refines="#subject-2">LCHS</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
-				<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The Story of Grettir the Strong by Anonymous.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
@@ -50,8 +50,8 @@
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<dc:creator id="author">Anonymous</dc:creator>
 		<meta property="file-as" refines="#author">Anonymous</meta>
-				<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
-<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jonathan Ingram, Bill Hershey, and the</dc:contributor>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
@@ -68,7 +68,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
-			<dc:contributor id="translator-1">Magnússon</dc:contributor>
+		<dc:contributor id="translator-1">Magnússon</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Magnússon</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 	</metadata>
@@ -298,5 +298,5 @@
 		<itemref idref="preface-1.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="permissions.xhtml"/>
-</spine>
+	</spine>
 </package>
