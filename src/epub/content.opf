@@ -194,7 +194,6 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="preface-1.xhtml"/>
 		<itemref idref="appendix-1.xhtml"/>
 		<itemref idref="appendix-2.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
@@ -292,7 +291,8 @@
 		<itemref idref="chapter-93.xhtml"/>
 		<itemref idref="chapter-94.xhtml"/>
 		<itemref idref="chapter-95.xhtml"/>
+		<itemref idref="preface-1.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="permissions.xhtml"/>
-	</spine>
+</spine>
 </package>
