@@ -81,7 +81,7 @@
 		<item href="fonts/SortsMillGoudy-Italic.woff2" id="SortsMillGoudy-Italic.woff2" media-type="application/vnd.ms-opentype"/>
 		<item href="fonts/SortsMillGoudy-Regular.woff2" id="SortsMillGoudy-Regular.woff2" media-type="application/vnd.ms-opentype"/>
 		<item href="images/cover.source.jpg" id="cover.source.jpg" media-type="image/jpeg"/>
-				<item href="images/cover.source.jpg" id="cover.jpg" media-type="image/jpeg"/>
+		<item href="images/cover.source.jpg" id="cover.jpg" media-type="image/jpeg"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/pg12747_cover.jpg" id="pg12747_cover.jpg" media-type="image/jpeg"/>
@@ -292,5 +292,5 @@
 		<itemref idref="preface-1.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="permissions.xhtml"/>
-</spine>
+	</spine>
 </package>
