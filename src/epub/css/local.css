@@ -495,3 +495,18 @@ img.publisher-logo{
 [epub|type~="preamble"]{
 	margin-bottom: 3em;
 }
+
+/* Dedication centering */
+section[epub|type~="dedication"],
+section[epub|type~="z3998:dedication"]{
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	min-height: 80vh;
+}
+section[epub|type~="dedication"] p,
+section[epub|type~="z3998:dedication"] p{
+	margin: auto;
+	text-align: center;
+}
