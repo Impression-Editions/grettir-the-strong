@@ -2,9 +2,12 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-/* * Impression Editions — Epic Poetry CSS Template
+/*
+ * Impression Editions — Epic Poetry CSS Template
  * Derived from SE's John Milton Paradise Lost (May 2026)
- * For long-form verse: epic poems, cantos, books of verse */
+ * For long-form verse: epic poems, cantos, books of verse
+ */
+
 /* === FOREIGN LANGUAGE === */
 body [xml|lang]{
 	font-style: italic;
@@ -58,6 +61,12 @@ section[epub|type~="dedication"] > *{
 }
 
 /* === POETRY === */
+/* IE rule: poems must have breathing room above and below, and be
+   visually set apart from surrounding prose. */
+[epub|type~="z3998:poem"]{
+	margin: 1.5em 2em;
+}
+
 [epub|type~="z3998:poem"] p{
 	text-align: initial;
 	text-indent: 0;
@@ -122,6 +131,7 @@ section[id$="text"]{
 	break-before: page;
 }
 
+
 /* === ABOUT THE AUTHOR === */
 section#about-the-author{
 	text-align: initial;
@@ -133,7 +143,7 @@ section#about-the-author > h2{
 
 section#about-the-author .center,
 section#about-the-author div[style*="text-align:center"]{
-	margin: .3em 0 2.5em 0;
+	margin: 0.3em 0 2.5em 0;
 	text-align: center;
 }
 
@@ -152,28 +162,4 @@ img.publisher-logo{
 	display: block;
 	margin: 1em auto;
 	max-width: 222px;
-}
-
-/* Dedication centering */
-section[epub|type~="dedication"],
-section[epub|type~="z3998:dedication"]{
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	min-height: 80vh;
-	text-align: center;
-}
-
-section[epub|type~="dedication"] p,
-section[epub|type~="z3998:dedication"] p{
-	margin: auto;
-	text-align: center;
-}
-
-abbr[epub|type~="se:era"]{
-	font-variant: all-small-caps;
-}
-
-abbr[epub|type~="z3998:initialism"]{
-	font-variant: all-small-caps;
 }
