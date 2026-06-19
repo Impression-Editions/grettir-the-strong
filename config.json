@@ -1,0 +1,22 @@
+{
+  "pg_id": 12747,
+  "title": "The Story of Grettir the Strong",
+  "author": "Anonymous",
+  "slug": "the-story-of-grettir-the-strong",
+  "language": "en-GB",
+  "has_illustrations": false,
+  "illustration_count": 2,
+  "preserve_spelling": true,
+  "original_year": null,
+  "gutendex_subjects": [
+    "Sagas -- Translations into English",
+    "Grettir Ásmundarson, 996-1031 -- Romances",
+    "PT"
+  ],
+  "llm_model": "google/gemini-3.1-flash-lite",
+  "llm_model_strong": "google/gemini-3.1-flash-lite",
+  "llm_batch_size": 5,
+  "proofread_chapters": 2,
+  "pg_images": [],
+  "translator": null
+}

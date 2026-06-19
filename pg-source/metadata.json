@@ -1,0 +1,20 @@
+{
+  "pg_id": 12747,
+  "fetched_at": "2026-06-19T08:30:35.458513+00:00",
+  "source_url": "https://www.gutenberg.org/cache/epub/12747/pg12747-images.html",
+  "title": "The Story of Grettir the Strong",
+  "author": "Anonymous",
+  "subjects": [
+    "Sagas -- Translations into English",
+    "Grettir Ásmundarson, 996-1031 -- Romances",
+    "PT"
+  ],
+  "files": {
+    "html": "pg-12747-images.html",
+    "epub": null,
+    "illustrations": [
+      "pg12747_cover.jpg",
+      "pg12747_cover_small.jpg"
+    ]
+  }
+}
