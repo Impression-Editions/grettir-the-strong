@@ -1,0 +1,45 @@
+{
+  "_generated_from": "gutenberg12747-the-story-of-grettir-the-strong_errata_email.txt",
+  "text_corrections": [
+    {
+      "find": "Wick,",
+      "replace": "the Creek,",
+      "reason": "Gerrata errata, scan page 51",
+      "context": "Now it is to be told of Flosi that he sent to his kin in Ingolfs-firth and Ufeig"
+    },
+    {
+      "find": "easiest",
+      "replace": "castest",
+      "reason": "Gerrata errata, scan page 51",
+      "context": "\" \"Well mightest thou, methinks, have full freedom as to thine own redes,\" said "
+    },
+    {
+      "find": "feign",
+      "replace": "feigh",
+      "reason": "Gerrata errata, scan page 51",
+      "context": "\" Said Thorbiorn, \"About as feign do I deem myself as before, despite thy squeal"
+    },
+    {
+      "find": "Budluga-haven.",
+      "replace": "Budlunga-haven.",
+      "reason": "Gerrata errata, scan page 51",
+      "context": "On sitting up, all who went to and fro on the road below, must have been within "
+    }
+  ],
+  "metadata_overrides": {},
+  "global_replacements": {
+    "Blaeng": "Blæng",
+    "Haengson": "Hængson",
+    "Saemund": "Sæmund",
+    "Thorbiorn": "Thorbiörn",
+    "Blaengson": "Blængson",
+    "Bloeng": "Blæng",
+    "Snaebiorn": "Snæbiorn",
+    "Snaeskoll": "Snækoll",
+    "Arisen": "Arison",
+    "Thorwald": "Thorvald",
+    "Haering": "Hæring",
+    "Snoekoll": "Snækoll",
+    "Solmund": "Sæmund"
+  }
+}
