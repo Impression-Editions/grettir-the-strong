@@ -2,12 +2,12 @@
   "pg_id": 12747,
   "title": "The Story of Grettir the Strong",
   "author": "Anonymous",
-  "slug": "the-story-of-grettir-the-strong",
+  "slug": "magnusson-eirikr-and-morris-william-the-story-of-grettir-the-strong",
   "language": "en-GB",
   "has_illustrations": false,
   "illustration_count": 2,
   "preserve_spelling": true,
-  "original_year": null,
+  "original_year": 1869,
   "gutendex_subjects": [
     "Sagas -- Translations into English",
     "Grettir Ásmundarson, 996-1031 -- Romances",
@@ -16,8 +16,28 @@
   "llm_model": "google/gemini-3.1-flash-lite",
   "llm_model_strong": "google/gemini-3.1-flash-lite",
   "llm_batch_size": 5,
-  "proofread_chapters": 2,
   "pg_images": [],
   "translator": null,
-  "book_type": "novel"
+  "book_type": "epic-poetry",
+  "original_title": "The Story of Grettir the Strong",
+  "original_author": "Anonymous",
+  "source": "body.html",
+  "drop_sections": [
+    "index-1",
+    "index-2",
+    "index-3",
+    "index-4",
+    "appendix-3",
+    "appendix-4"
+  ],
+  "print_source": {
+    "publisher": "London : F. S. Ellis",
+    "year": 1869,
+    "translators": [
+      "Eiríkr Magnússon",
+      "William Morris"
+    ],
+    "ia_url": "https://archive.org/details/storyofgrettirst00eiri",
+    "image_count": 342
+  }
 }
