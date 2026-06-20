@@ -609,11 +609,17 @@
 	</navPoint>
 	<navPoint id="navPoint-101" playOrder="101">
 		<navLabel>
+			<text>Dramatis Personae</text>
+		</navLabel>
+		<content src="text/dramatis-personae.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-102" playOrder="102">
+		<navLabel>
 			<text>NOTES AND CORRECTIONS</text>
 		</navLabel>
 		<content src="text/endnotes.xhtml"/>
 	</navPoint>
-	<navPoint id="navPoint-102" playOrder="102">
+	<navPoint id="navPoint-103" playOrder="103">
 		<navLabel>
 			<text>Copyright &amp; Permissions</text>
 		</navLabel>
