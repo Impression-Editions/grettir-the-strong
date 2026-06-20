@@ -45,7 +45,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/12747</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/12747</dc:source>
 		<meta property="se:production-notes">Produced from Project Gutenberg ebook #12747.</meta>
-		<meta property="se:word-count">82552</meta>
+		<meta property="se:word-count">82620</meta>
 		<meta property="se:reading-ease.flesch">64.68</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<dc:creator id="author">Anonymous</dc:creator>
@@ -195,8 +195,8 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="halftitle.xhtml"/>
-		<itemref idref="preface-1.xhtml"/>
+		<itemref idref="appendix-1.xhtml"/>
+		<itemref idref="appendix-5.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
 		<itemref idref="chapter-3.xhtml"/>
@@ -292,10 +292,10 @@
 		<itemref idref="chapter-93.xhtml"/>
 		<itemref idref="chapter-94.xhtml"/>
 		<itemref idref="chapter-95.xhtml"/>
-		<itemref idref="appendix-1.xhtml"/>
-		<itemref idref="appendix-5.xhtml"/>
 		<itemref idref="dramatis-personae.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="preface-1.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="permissions.xhtml"/>
-	</spine>
+</spine>
 </package>
