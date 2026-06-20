@@ -193,7 +193,7 @@
 		<item href="text/preface-1.xhtml" id="preface-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
-			<item href="text/dramatis-personae.xhtml" id="dramatis-personae" media-type="application/xhtml+xml" properties=""/>
+		<item href="text/dramatis-personae.xhtml" id="dramatis-personae" media-type="application/xhtml+xml" properties=""/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
@@ -299,5 +299,5 @@
 		<itemref idref="preface-1.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="permissions.xhtml"/>
-</spine>
+	</spine>
 </package>
