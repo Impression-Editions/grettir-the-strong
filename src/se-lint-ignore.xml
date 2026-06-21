@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-*.xhtml">
-		<ignore code="m-045">
-			<reason>Chapter headings with Roman numerals + subtitle spans are correctly represented in ToC</reason>
-		</ignore>
 		<ignore code="s-021">
 			<reason>Roman numeral + subtitle headings produce correct titles per se build-title; se lint extracts only the Roman numeral</reason>
+		</ignore>
+		<ignore code="m-045">
+			<reason>Chapter headings with Roman numerals + subtitle spans are correctly represented in ToC</reason>
 		</ignore>
 		<ignore code="s-023">
 			<reason>Chapter headings use original edition capitalization; titlecasing would alter the translators style</reason>
@@ -21,17 +21,17 @@
 		</ignore>
 	</file>
 	<file path="content.opf">
+		<ignore code="m-056">
+			<reason>IE does not have SE author pages to link to</reason>
+		</ignore>
+		<ignore code="m-042">
+			<reason>IE Calibre raster cover workaround adds manifest item not expected by SE</reason>
+		</ignore>
 		<ignore code="m-036">
 			<reason>IE does not have a wiki page</reason>
 		</ignore>
 		<ignore code="m-040">
 			<reason>IE does not set SE role properties; cover alt text is conventional</reason>
-		</ignore>
-		<ignore code="m-042">
-			<reason>IE Calibre raster cover workaround adds manifest item not expected by SE</reason>
-		</ignore>
-		<ignore code="m-056">
-			<reason>IE does not have SE author pages to link to</reason>
 		</ignore>
 		<ignore code="s-020">
 			<reason>IE does not generate half title pages; frontmatter starts at titlepage</reason>
