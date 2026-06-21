@@ -301,5 +301,5 @@
 		<itemref idref="preface-1.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="permissions.xhtml"/>
-</spine>
+	</spine>
 </package>
