@@ -46,8 +46,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/12747</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/12747</dc:source>
 		<meta property="se:production-notes">Produced from Project Gutenberg ebook #12747.</meta>
-		<meta property="se:word-count">86691</meta>
-		<meta property="se:reading-ease.flesch">63.66</meta>
+		<meta property="se:word-count">85888</meta>
+		<meta property="se:reading-ease.flesch">63.97</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<dc:creator id="author">Anonymous</dc:creator>
 		<meta property="file-as" refines="#author">Anonymous</meta>
@@ -194,7 +194,7 @@
 		<item href="text/preface-1.xhtml" id="preface-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
-			<item href="fonts/SortsMillGoudy-Regular.woff2" id="SortsMillGoudy-Regular.woff2" media-type="font/woff2"/>
+		<item href="fonts/SortsMillGoudy-Regular.woff2" id="SortsMillGoudy-Regular.woff2" media-type="font/woff2"/>
 		<item href="fonts/SortsMillGoudy-Italic.woff2" id="SortsMillGoudy-Italic.woff2" media-type="font/woff2"/>
 		<item href="fonts/LeagueSpartan-Bold.woff2" id="LeagueSpartan-Bold.woff2" media-type="font/woff2"/>
 	</manifest>
