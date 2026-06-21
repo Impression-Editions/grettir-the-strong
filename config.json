@@ -1,6 +1,6 @@
 {
   "pg_id": 12747,
-  "title": "The Story of Grettir the Strong",
+  "title": "Grettir the Strong",
   "author": "Anonymous",
   "slug": "magnusson-eirikr-and-morris-william-the-story-of-grettir-the-strong",
   "language": "en-GB",
@@ -28,7 +28,8 @@
     "index-2",
     "index-3",
     "index-4",
-    "appendix-3"
+    "appendix-3",
+    "appendix-4"
   ],
   "print_source": {
     "publisher": "London : F. S. Ellis",
@@ -39,5 +40,6 @@
     ],
     "ia_url": "https://archive.org/details/storyofgrettirst00eiri",
     "image_count": 342
-  }
+  },
+  "subtitle": "Or The Story of Grettir the Strong"
 }
