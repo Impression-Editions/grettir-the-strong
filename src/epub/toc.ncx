@@ -1,641 +1,641 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ncx xmlns="http://www.daisy.org/z3998/2005/ncx/" version="2005-1" xml:lang="en-US">
 	<head>
-		<meta content="https://impressioneditions.com/ebooks/anonymous/the-story-of-grettir-the-strong/magn-sson" name="dtb:uid"/>
+		<meta name="dtb:uid" content="https://impressioneditions.com/ebooks/anonymous/the-story-of-grettir-the-strong/magn-sson"/>
 	</head>
 	<docTitle>
 		<text>Table of Contents</text>
 	</docTitle>
 	<navMap>
-		<navPoint id="navPoint-1" playOrder="1">
-			<navLabel>
-				<text>The Story of Grettir the Strong</text>
-			</navLabel>
-			<content src="text/titlepage.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-2" playOrder="2">
-			<navLabel>
-				<text>Imprint</text>
-			</navLabel>
-			<content src="text/imprint.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-3" playOrder="3">
-			<navLabel>
-				<text>Preface</text>
-			</navLabel>
-			<content src="text/preface-1.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-4" playOrder="4">
-			<navLabel>
-				<text>Chronology of the Story</text>
-			</navLabel>
-			<content src="text/appendix-1.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-5" playOrder="5">
-			<navLabel>
-				<text>Proverbs and Proverbial Sayings That Occur in the Story</text>
-			</navLabel>
-			<content src="text/appendix-5.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-6" playOrder="6">
-			<navLabel>
-				<text>Principal Characters</text>
-			</navLabel>
-			<content src="text/dramatis-personae.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-7" playOrder="7">
-			<navLabel>
-				<text>A Map of the West Parts of Iceland</text>
-			</navLabel>
-			<content src="text/map.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-8" playOrder="8">
-			<navLabel>
-				<text>I</text>
-			</navLabel>
-			<content src="text/chapter-1.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-9" playOrder="9">
-			<navLabel>
-				<text>II</text>
-			</navLabel>
-			<content src="text/chapter-2.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-10" playOrder="10">
-			<navLabel>
-				<text>III</text>
-			</navLabel>
-			<content src="text/chapter-3.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-11" playOrder="11">
-			<navLabel>
-				<text>IV</text>
-			</navLabel>
-			<content src="text/chapter-4.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-12" playOrder="12">
-			<navLabel>
-				<text>V</text>
-			</navLabel>
-			<content src="text/chapter-5.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-13" playOrder="13">
-			<navLabel>
-				<text>VI</text>
-			</navLabel>
-			<content src="text/chapter-6.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-14" playOrder="14">
-			<navLabel>
-				<text>VII</text>
-			</navLabel>
-			<content src="text/chapter-7.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-15" playOrder="15">
-			<navLabel>
-				<text>VIII</text>
-			</navLabel>
-			<content src="text/chapter-8.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-16" playOrder="16">
-			<navLabel>
-				<text>IX</text>
-			</navLabel>
-			<content src="text/chapter-9.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-17" playOrder="17">
-			<navLabel>
-				<text>X</text>
-			</navLabel>
-			<content src="text/chapter-10.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-18" playOrder="18">
-			<navLabel>
-				<text>XI</text>
-			</navLabel>
-			<content src="text/chapter-11.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-19" playOrder="19">
-			<navLabel>
-				<text>XII</text>
-			</navLabel>
-			<content src="text/chapter-12.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-20" playOrder="20">
-			<navLabel>
-				<text>XIII</text>
-			</navLabel>
-			<content src="text/chapter-13.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-21" playOrder="21">
-			<navLabel>
-				<text>XIV Of Grettir as a child, and his froward ways with his father</text>
-			</navLabel>
-			<content src="text/chapter-14.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-22" playOrder="22">
-			<navLabel>
-				<text>XV Of the ball-play on Midfirth Water</text>
-			</navLabel>
-			<content src="text/chapter-15.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-23" playOrder="23">
-			<navLabel>
-				<text>XVI Of the slaying of Skeggi</text>
-			</navLabel>
-			<content src="text/chapter-16.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-24" playOrder="24">
-			<navLabel>
-				<text>XVII Of Grettir’s voyage out</text>
-			</navLabel>
-			<content src="text/chapter-17.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-25" playOrder="25">
-			<navLabel>
-				<text>XVIII Of Grettir at Haramsey and his dealings with Karr the Old</text>
-			</navLabel>
-			<content src="text/chapter-18.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-26" playOrder="26">
-			<navLabel>
-				<text>XIX Of Yule at Haramsey, and how Grettir dealt with the Bearserks</text>
-			</navLabel>
-			<content src="text/chapter-19.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-27" playOrder="27">
-			<navLabel>
-				<text>XX How Thorfinn met Grettir at Haramsey again</text>
-			</navLabel>
-			<content src="text/chapter-20.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-28" playOrder="28">
-			<navLabel>
-				<text>XXI Of Grettir and Biorn and the Bear</text>
-			</navLabel>
-			<content src="text/chapter-21.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-29" playOrder="29">
-			<navLabel>
-				<text>XXII Of the Slaying of Biorn</text>
-			</navLabel>
-			<content src="text/chapter-22.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-30" playOrder="30">
-			<navLabel>
-				<text>XXIII The Slaying of Hiarandi</text>
-			</navLabel>
-			<content src="text/chapter-23.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-31" playOrder="31">
-			<navLabel>
-				<text>XXIV Of the Slaying of Gunnar, and Grettir’s strife with Earl Svein</text>
-			</navLabel>
-			<content src="text/chapter-24.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-32" playOrder="32">
-			<navLabel>
-				<text>XXV The Slaying of Thorgils Makson</text>
-			</navLabel>
-			<content src="text/chapter-25.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-33" playOrder="33">
-			<navLabel>
-				<text>XXVI Of Thorstein Kuggson, and the gathering for the Bloodsuit for the Slaying of Thorgils Makson</text>
-			</navLabel>
-			<content src="text/chapter-26.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-34" playOrder="34">
-			<navLabel>
-				<text>XXVII The Suit for the Slaying of Thorgils Makson</text>
-			</navLabel>
-			<content src="text/chapter-27.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-35" playOrder="35">
-			<navLabel>
-				<text>XXVIII Grettir comes out to Iceland again</text>
-			</navLabel>
-			<content src="text/chapter-28.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-36" playOrder="36">
-			<navLabel>
-				<text>XXIX Of the Horse-fight at Longfit</text>
-			</navLabel>
-			<content src="text/chapter-29.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-37" playOrder="37">
-			<navLabel>
-				<text>XXX Of Thorbiörn Oxmain and Thorbiörn Tardy, and of Grettir’s meeting with Kormak on Ramfirth-neck</text>
-			</navLabel>
-			<content src="text/chapter-30.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-38" playOrder="38">
-			<navLabel>
-				<text>XXXI How Grettir met Bardi, the Son of Gudmund, as he came back from the Heath-slayings</text>
-			</navLabel>
-			<content src="text/chapter-31.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-39" playOrder="39">
-			<navLabel>
-				<text>XXXII Of the Haunting at Thorhall-stead; and how Thorhall took a Shepherd by the rede of Skapti the Lawman, and of what befell thereafter</text>
-			</navLabel>
-			<content src="text/chapter-32.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-40" playOrder="40">
-			<navLabel>
-				<text>XXXIII Of the doings of Glam at Thorhall-stead</text>
-			</navLabel>
-			<content src="text/chapter-33.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-41" playOrder="41">
-			<navLabel>
-				<text>XXXIV Grettir hears of the Hauntings</text>
-			</navLabel>
-			<content src="text/chapter-34.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-42" playOrder="42">
-			<navLabel>
-				<text>XXXV Grettir goes to Thorhall-stead, and has to do with Glam</text>
-			</navLabel>
-			<content src="text/chapter-35.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-43" playOrder="43">
-			<navLabel>
-				<text>XXXVI Of Thorbiörn Oxmain’s autumn-feast, and the mocks of Thorbiörn Tardy</text>
-			</navLabel>
-			<content src="text/chapter-36.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-44" playOrder="44">
-			<navLabel>
-				<text>XXXVII Olaf the Saint, King in Norway; the slaying of Thorbiörn Tardy; Grettir goes to Norway</text>
-			</navLabel>
-			<content src="text/chapter-37.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-45" playOrder="45">
-			<navLabel>
-				<text>XXXVIII Of Thorir of Garth and his sons; and how Grettir fetched fire for his shipmates</text>
-			</navLabel>
-			<content src="text/chapter-38.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-46" playOrder="46">
-			<navLabel>
-				<text>XXXIX How Grettir would fain bear Iron before the King</text>
-			</navLabel>
-			<content src="text/chapter-39.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-47" playOrder="47">
-			<navLabel>
-				<text>XL Of Grettir and Snækoll</text>
-			</navLabel>
-			<content src="text/chapter-40.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-48" playOrder="48">
-			<navLabel>
-				<text>XLI Of Thorstein Dromond’s Arms, and what he deemed they might do</text>
-			</navLabel>
-			<content src="text/chapter-41.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-49" playOrder="49">
-			<navLabel>
-				<text>XLII Of the Death of Asmund the Grey haired</text>
-			</navLabel>
-			<content src="text/chapter-42.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-50" playOrder="50">
-			<navLabel>
-				<text>XLIII The Onset on Atli at the Pass and the Slaying of Gunnar and Thorgeir</text>
-			</navLabel>
-			<content src="text/chapter-43.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-51" playOrder="51">
-			<navLabel>
-				<text>XLIV The Suit for the Slaying of the Sons of Thorir of the Pass</text>
-			</navLabel>
-			<content src="text/chapter-44.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-52" playOrder="52">
-			<navLabel>
-				<text>XLV Of the Slaying of Atli Asmundson</text>
-			</navLabel>
-			<content src="text/chapter-45.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-53" playOrder="53">
-			<navLabel>
-				<text>XLVI Grettir outlawed at the Thing at the Suit of Thorir of Garth</text>
-			</navLabel>
-			<content src="text/chapter-46.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-54" playOrder="54">
-			<navLabel>
-				<text>XLVII Grettir comes out to Iceland again</text>
-			</navLabel>
-			<content src="text/chapter-47.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-55" playOrder="55">
-			<navLabel>
-				<text>XLVIII The Slaying of Thorbiörn Oxmain</text>
-			</navLabel>
-			<content src="text/chapter-48.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-56" playOrder="56">
-			<navLabel>
-				<text>XLIX The gathering to avenge Thorbiörn Oxmain</text>
-			</navLabel>
-			<content src="text/chapter-49.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-57" playOrder="57">
-			<navLabel>
-				<text>Chap. L Grettir and the Foster-brothers at Reek-knolls</text>
-			</navLabel>
-			<content src="text/chapter-50.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-58" playOrder="58">
-			<navLabel>
-				<text>LI Of the suit for the Slaying of Thorbiörn Oxmain, and how Thorir of Garth would not that Grettir should be made sackless</text>
-			</navLabel>
-			<content src="text/chapter-51.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-59" playOrder="59">
-			<navLabel>
-				<text>LII How Grettir was taken by the Icefirth Carles</text>
-			</navLabel>
-			<content src="text/chapter-52.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-60" playOrder="60">
-			<navLabel>
-				<text>LIII Grettir with Thorstein Kuggson</text>
-			</navLabel>
-			<content src="text/chapter-53.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-61" playOrder="61">
-			<navLabel>
-				<text>LIV Grettir meets Hallmund on the Keel</text>
-			</navLabel>
-			<content src="text/chapter-54.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-62" playOrder="62">
-			<navLabel>
-				<text>LV Of Grettir on Ernewaterheath, and his dealings with Grim there</text>
-			</navLabel>
-			<content src="text/chapter-55.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-63" playOrder="63">
-			<navLabel>
-				<text>LVI Of Grettir and Thorir Redbeard</text>
-			</navLabel>
-			<content src="text/chapter-56.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-64" playOrder="64">
-			<navLabel>
-				<text>LVII How Thorir of Garth set on Grettir on Ernewaterheath</text>
-			</navLabel>
-			<content src="text/chapter-57.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-65" playOrder="65">
-			<navLabel>
-				<text>LVIII Grettir in Fairwoodfell</text>
-			</navLabel>
-			<content src="text/chapter-58.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-66" playOrder="66">
-			<navLabel>
-				<text>LIX Gisli’s meeting with Grettir</text>
-			</navLabel>
-			<content src="text/chapter-59.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-67" playOrder="67">
-			<navLabel>
-				<text>LX Of the Fight at Hitriver</text>
-			</navLabel>
-			<content src="text/chapter-60.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-68" playOrder="68">
-			<navLabel>
-				<text>LXI How Grettir left Fairwoodfell, and of his abiding in Thorir’s-dale</text>
-			</navLabel>
-			<content src="text/chapter-61.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-69" playOrder="69">
-			<navLabel>
-				<text>LXII Of the Death of Hallmund, Grettir’s Friend</text>
-			</navLabel>
-			<content src="text/chapter-62.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-70" playOrder="70">
-			<navLabel>
-				<text>LXIII How Grettir beguiled Thorir of Garth when he was nigh taking him</text>
-			</navLabel>
-			<content src="text/chapter-63.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-71" playOrder="71">
-			<navLabel>
-				<text>LXIV Of the ILL haps at Sand-heaps, and how Guest came to the Goodwife there</text>
-			</navLabel>
-			<content src="text/chapter-64.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-72" playOrder="72">
-			<navLabel>
-				<text>LXV Of Guest and the Troll-wife</text>
-			</navLabel>
-			<content src="text/chapter-65.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-73" playOrder="73">
-			<navLabel>
-				<text>LXVI Of the Dweller in the Cave under the Force</text>
-			</navLabel>
-			<content src="text/chapter-66.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-74" playOrder="74">
-			<navLabel>
-				<text>LXVII Grettir driven from Sand-heaps to the West</text>
-			</navLabel>
-			<content src="text/chapter-67.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-75" playOrder="75">
-			<navLabel>
-				<text>LXVIII How Thorod, the Son of Snorri Godi, went against Grettir</text>
-			</navLabel>
-			<content src="text/chapter-68.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-76" playOrder="76">
-			<navLabel>
-				<text>LXIX How Grettir took leave of his Mother at Biarg, and fared with Illugi his Brother to Drangey</text>
-			</navLabel>
-			<content src="text/chapter-69.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-77" playOrder="77">
-			<navLabel>
-				<text>LXX Of the Bonders who owned Drangey between them</text>
-			</navLabel>
-			<content src="text/chapter-70.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-78" playOrder="78">
-			<navLabel>
-				<text>LXXI How those of Skagafirth found Grettir on Drangey</text>
-			</navLabel>
-			<content src="text/chapter-71.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-79" playOrder="79">
-			<navLabel>
-				<text>LXXII Of the Sports at Heron-ness Thing</text>
-			</navLabel>
-			<content src="text/chapter-72.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-80" playOrder="80">
-			<navLabel>
-				<text>LXXIII The Handselling of Peace</text>
-			</navLabel>
-			<content src="text/chapter-73.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-81" playOrder="81">
-			<navLabel>
-				<text>LXXIV Of Grettir’s Wrestling: and how Thorbiörn Angle now bought the more part of Drangey</text>
-			</navLabel>
-			<content src="text/chapter-74.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-82" playOrder="82">
-			<navLabel>
-				<text>LXXV Thorbiörn Angle goes to Drangey to speak with Grettir</text>
-			</navLabel>
-			<content src="text/chapter-75.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-83" playOrder="83">
-			<navLabel>
-				<text>LXXVI How Noise let the fire out on Drangey, and how Grettir must needs go aland for more</text>
-			</navLabel>
-			<content src="text/chapter-76.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-84" playOrder="84">
-			<navLabel>
-				<text>LXXVII Grettir at the home-stead of Reeks</text>
-			</navLabel>
-			<content src="text/chapter-77.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-85" playOrder="85">
-			<navLabel>
-				<text>LXXVIII Of Haring at Drangey, and the end of him</text>
-			</navLabel>
-			<content src="text/chapter-78.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-86" playOrder="86">
-			<navLabel>
-				<text>LXXIX Of the Talk at the Thing about Grettir’s Outlawry</text>
-			</navLabel>
-			<content src="text/chapter-79.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-87" playOrder="87">
-			<navLabel>
-				<text>LXXX Thorbiörn Angle goes with his Foster-mother out to Drangey</text>
-			</navLabel>
-			<content src="text/chapter-80.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-88" playOrder="88">
-			<navLabel>
-				<text>LXXXI Of the Carline’s evil Gift to Grettir</text>
-			</navLabel>
-			<content src="text/chapter-81.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-89" playOrder="89">
-			<navLabel>
-				<text>LXXXII Grettir sings of his Great Deeds</text>
-			</navLabel>
-			<content src="text/chapter-82.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-90" playOrder="90">
-			<navLabel>
-				<text>LXXXIII How Thorbiörn Angle gathered Force and set Sail for Drangey</text>
-			</navLabel>
-			<content src="text/chapter-83.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-91" playOrder="91">
-			<navLabel>
-				<text>LXXXIV The Slaying of Grettir Asmundson</text>
-			</navLabel>
-			<content src="text/chapter-84.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-92" playOrder="92">
-			<navLabel>
-				<text>LXXXV How Thorbiörn Angle claimed Grettir’s Head-money</text>
-			</navLabel>
-			<content src="text/chapter-85.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-93" playOrder="93">
-			<navLabel>
-				<text>LXXXVI How Thorbiörn Angle brought Grettir’s Head to Biarg</text>
-			</navLabel>
-			<content src="text/chapter-86.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-94" playOrder="94">
-			<navLabel>
-				<text>LXXXVII Affairs at the Althing</text>
-			</navLabel>
-			<content src="text/chapter-87.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-95" playOrder="95">
-			<navLabel>
-				<text>LXXXVIII Thorbiörn Angle goes to Norway, and thence to Micklegarth</text>
-			</navLabel>
-			<content src="text/chapter-88.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-96" playOrder="96">
-			<navLabel>
-				<text>LXXXIX How the Short-Sword was the easier known when sought for by reason of the notch in the blade</text>
-			</navLabel>
-			<content src="text/chapter-89.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-97" playOrder="97">
-			<navLabel>
-				<text>XC How the Lady Spes redeemed Thorstein from the Dungeon</text>
-			</navLabel>
-			<content src="text/chapter-90.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-98" playOrder="98">
-			<navLabel>
-				<text>XCI Of the doings of Thorstein and the Lady Spes</text>
-			</navLabel>
-			<content src="text/chapter-91.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-99" playOrder="99">
-			<navLabel>
-				<text>XCII Of the Oath that Spes made before the Bishop</text>
-			</navLabel>
-			<content src="text/chapter-92.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-100" playOrder="100">
-			<navLabel>
-				<text>XCIII Thorstein and Spes come out to Norway</text>
-			</navLabel>
-			<content src="text/chapter-93.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-101" playOrder="101">
-			<navLabel>
-				<text>XCIV Thorstein Dromund and Spes leave Norway again</text>
-			</navLabel>
-			<content src="text/chapter-94.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-102" playOrder="102">
-			<navLabel>
-				<text>XCV How Thorstein Dromund and Spes fared to Rome and died there</text>
-			</navLabel>
-			<content src="text/chapter-95.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-103" playOrder="103">
-			<navLabel>
-				<text>Notes and Corrections</text>
-			</navLabel>
-			<content src="text/appendix-2.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-104" playOrder="104">
-			<navLabel>
-				<text>Endnotes</text>
-			</navLabel>
-			<content src="text/endnotes.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-105" playOrder="105">
-			<navLabel>
-				<text>Copyright &amp; Permissions</text>
-			</navLabel>
-			<content src="text/permissions.xhtml"/>
-		</navPoint>
+	<navPoint id="navPoint-1" playOrder="1">
+		<navLabel>
+			<text>The Story of Grettir the Strong</text>
+		</navLabel>
+		<content src="text/titlepage.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-2" playOrder="2">
+		<navLabel>
+			<text>Imprint</text>
+		</navLabel>
+		<content src="text/imprint.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-3" playOrder="3">
+		<navLabel>
+			<text>Preface</text>
+		</navLabel>
+		<content src="text/preface-1.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-4" playOrder="4">
+		<navLabel>
+			<text>Chronology of the Story</text>
+		</navLabel>
+		<content src="text/appendix-1.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-5" playOrder="5">
+		<navLabel>
+			<text>Proverbs and Proverbial Sayings That Occur in the Story</text>
+		</navLabel>
+		<content src="text/appendix-5.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-6" playOrder="6">
+		<navLabel>
+			<text>Principal Characters</text>
+		</navLabel>
+		<content src="text/dramatis-personae.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-7" playOrder="7">
+		<navLabel>
+			<text>A Map of the West Parts of Iceland</text>
+		</navLabel>
+		<content src="text/map.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-8" playOrder="8">
+		<navLabel>
+			<text>I</text>
+		</navLabel>
+		<content src="text/chapter-1.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-9" playOrder="9">
+		<navLabel>
+			<text>Ii</text>
+		</navLabel>
+		<content src="text/chapter-2.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-10" playOrder="10">
+		<navLabel>
+			<text>Iii</text>
+		</navLabel>
+		<content src="text/chapter-3.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-11" playOrder="11">
+		<navLabel>
+			<text>Iv</text>
+		</navLabel>
+		<content src="text/chapter-4.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-12" playOrder="12">
+		<navLabel>
+			<text>V</text>
+		</navLabel>
+		<content src="text/chapter-5.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-13" playOrder="13">
+		<navLabel>
+			<text>Vi</text>
+		</navLabel>
+		<content src="text/chapter-6.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-14" playOrder="14">
+		<navLabel>
+			<text>Vii</text>
+		</navLabel>
+		<content src="text/chapter-7.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-15" playOrder="15">
+		<navLabel>
+			<text>Viii</text>
+		</navLabel>
+		<content src="text/chapter-8.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-16" playOrder="16">
+		<navLabel>
+			<text>Ix</text>
+		</navLabel>
+		<content src="text/chapter-9.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-17" playOrder="17">
+		<navLabel>
+			<text>X</text>
+		</navLabel>
+		<content src="text/chapter-10.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-18" playOrder="18">
+		<navLabel>
+			<text>Xi</text>
+		</navLabel>
+		<content src="text/chapter-11.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-19" playOrder="19">
+		<navLabel>
+			<text>Xii</text>
+		</navLabel>
+		<content src="text/chapter-12.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-20" playOrder="20">
+		<navLabel>
+			<text>Xiii</text>
+		</navLabel>
+		<content src="text/chapter-13.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-21" playOrder="21">
+		<navLabel>
+			<text>XIV Of Grettir as a child, and his froward ways with his father</text>
+		</navLabel>
+		<content src="text/chapter-14.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-22" playOrder="22">
+		<navLabel>
+			<text>XV Of the ball-play on Midfirth Water</text>
+		</navLabel>
+		<content src="text/chapter-15.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-23" playOrder="23">
+		<navLabel>
+			<text>XVI Of the slaying of Skeggi</text>
+		</navLabel>
+		<content src="text/chapter-16.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-24" playOrder="24">
+		<navLabel>
+			<text>XVII Of Grettir’s voyage out</text>
+		</navLabel>
+		<content src="text/chapter-17.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-25" playOrder="25">
+		<navLabel>
+			<text>XVIII Of Grettir at Haramsey and his dealings with Karr the Old</text>
+		</navLabel>
+		<content src="text/chapter-18.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-26" playOrder="26">
+		<navLabel>
+			<text>XIX Of Yule at Haramsey, and how Grettir dealt with the Bearserks</text>
+		</navLabel>
+		<content src="text/chapter-19.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-27" playOrder="27">
+		<navLabel>
+			<text>XX How Thorfinn met Grettir at Haramsey again</text>
+		</navLabel>
+		<content src="text/chapter-20.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-28" playOrder="28">
+		<navLabel>
+			<text>XXI Of Grettir and Biorn and the Bear</text>
+		</navLabel>
+		<content src="text/chapter-21.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-29" playOrder="29">
+		<navLabel>
+			<text>XXII Of the Slaying of Biorn</text>
+		</navLabel>
+		<content src="text/chapter-22.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-30" playOrder="30">
+		<navLabel>
+			<text>XXIII The Slaying of Hiarandi</text>
+		</navLabel>
+		<content src="text/chapter-23.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-31" playOrder="31">
+		<navLabel>
+			<text>XXIV Of the Slaying of Gunnar, and Grettir’s strife with Earl Svein</text>
+		</navLabel>
+		<content src="text/chapter-24.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-32" playOrder="32">
+		<navLabel>
+			<text>XXV The Slaying of Thorgils Makson</text>
+		</navLabel>
+		<content src="text/chapter-25.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-33" playOrder="33">
+		<navLabel>
+			<text>XXVI Of Thorstein Kuggson, and the gathering for the Bloodsuit for the Slaying of Thorgils Makson</text>
+		</navLabel>
+		<content src="text/chapter-26.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-34" playOrder="34">
+		<navLabel>
+			<text>XXVII The Suit for the Slaying of Thorgils Makson</text>
+		</navLabel>
+		<content src="text/chapter-27.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-35" playOrder="35">
+		<navLabel>
+			<text>XXVIII Grettir comes out to Iceland again</text>
+		</navLabel>
+		<content src="text/chapter-28.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-36" playOrder="36">
+		<navLabel>
+			<text>XXIX Of the Horse-fight at Longfit</text>
+		</navLabel>
+		<content src="text/chapter-29.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-37" playOrder="37">
+		<navLabel>
+			<text>XXX Of Thorbiörn Oxmain and Thorbiörn Tardy, and of Grettir’s meeting with Kormak on Ramfirth-neck</text>
+		</navLabel>
+		<content src="text/chapter-30.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-38" playOrder="38">
+		<navLabel>
+			<text>XXXI How Grettir met Bardi, the Son of Gudmund, as he came back from the Heath-slayings</text>
+		</navLabel>
+		<content src="text/chapter-31.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-39" playOrder="39">
+		<navLabel>
+			<text>XXXII Of the Haunting at Thorhall-stead; and how Thorhall took a Shepherd by the rede of Skapti the Lawman, and of what befell thereafter</text>
+		</navLabel>
+		<content src="text/chapter-32.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-40" playOrder="40">
+		<navLabel>
+			<text>XXXIII Of the doings of Glam at Thorhall-stead</text>
+		</navLabel>
+		<content src="text/chapter-33.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-41" playOrder="41">
+		<navLabel>
+			<text>XXXIV Grettir hears of the Hauntings</text>
+		</navLabel>
+		<content src="text/chapter-34.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-42" playOrder="42">
+		<navLabel>
+			<text>XXXV Grettir goes to Thorhall-stead, and has to do with Glam</text>
+		</navLabel>
+		<content src="text/chapter-35.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-43" playOrder="43">
+		<navLabel>
+			<text>XXXVI Of Thorbiörn Oxmain’s autumn-feast, and the mocks of Thorbiörn Tardy</text>
+		</navLabel>
+		<content src="text/chapter-36.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-44" playOrder="44">
+		<navLabel>
+			<text>XXXVII Olaf the Saint, King in Norway; the slaying of Thorbiörn Tardy; Grettir goes to Norway</text>
+		</navLabel>
+		<content src="text/chapter-37.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-45" playOrder="45">
+		<navLabel>
+			<text>XXXVIII Of Thorir of Garth and his sons; and how Grettir fetched fire for his shipmates</text>
+		</navLabel>
+		<content src="text/chapter-38.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-46" playOrder="46">
+		<navLabel>
+			<text>XXXIX How Grettir would fain bear Iron before the King</text>
+		</navLabel>
+		<content src="text/chapter-39.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-47" playOrder="47">
+		<navLabel>
+			<text>XL Of Grettir and Snækoll</text>
+		</navLabel>
+		<content src="text/chapter-40.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-48" playOrder="48">
+		<navLabel>
+			<text>XLI Of Thorstein Dromond’s Arms, and what he deemed they might do</text>
+		</navLabel>
+		<content src="text/chapter-41.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-49" playOrder="49">
+		<navLabel>
+			<text>XLII Of the Death of Asmund the Grey haired</text>
+		</navLabel>
+		<content src="text/chapter-42.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-50" playOrder="50">
+		<navLabel>
+			<text>XLIII The Onset on Atli at the Pass and the Slaying of Gunnar and Thorgeir</text>
+		</navLabel>
+		<content src="text/chapter-43.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-51" playOrder="51">
+		<navLabel>
+			<text>XLIV The Suit for the Slaying of the Sons of Thorir of the Pass</text>
+		</navLabel>
+		<content src="text/chapter-44.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-52" playOrder="52">
+		<navLabel>
+			<text>XLV Of the Slaying of Atli Asmundson</text>
+		</navLabel>
+		<content src="text/chapter-45.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-53" playOrder="53">
+		<navLabel>
+			<text>XLVI Grettir outlawed at the Thing at the Suit of Thorir of Garth</text>
+		</navLabel>
+		<content src="text/chapter-46.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-54" playOrder="54">
+		<navLabel>
+			<text>XLVII Grettir comes out to Iceland again</text>
+		</navLabel>
+		<content src="text/chapter-47.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-55" playOrder="55">
+		<navLabel>
+			<text>XLVIII The Slaying of Thorbiörn Oxmain</text>
+		</navLabel>
+		<content src="text/chapter-48.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-56" playOrder="56">
+		<navLabel>
+			<text>XLIX The gathering to avenge Thorbiörn Oxmain</text>
+		</navLabel>
+		<content src="text/chapter-49.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-57" playOrder="57">
+		<navLabel>
+			<text>Chap. L Grettir and the Foster-brothers at Reek-knolls</text>
+		</navLabel>
+		<content src="text/chapter-50.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-58" playOrder="58">
+		<navLabel>
+			<text>LI Of the suit for the Slaying of Thorbiörn Oxmain, and how Thorir of Garth would not that Grettir should be made sackless</text>
+		</navLabel>
+		<content src="text/chapter-51.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-59" playOrder="59">
+		<navLabel>
+			<text>LII How Grettir was taken by the Icefirth Carles</text>
+		</navLabel>
+		<content src="text/chapter-52.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-60" playOrder="60">
+		<navLabel>
+			<text>LIII Grettir with Thorstein Kuggson</text>
+		</navLabel>
+		<content src="text/chapter-53.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-61" playOrder="61">
+		<navLabel>
+			<text>LIV Grettir meets Hallmund on the Keel</text>
+		</navLabel>
+		<content src="text/chapter-54.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-62" playOrder="62">
+		<navLabel>
+			<text>LV Of Grettir on Ernewaterheath, and his dealings with Grim there</text>
+		</navLabel>
+		<content src="text/chapter-55.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-63" playOrder="63">
+		<navLabel>
+			<text>LVI Of Grettir and Thorir Redbeard</text>
+		</navLabel>
+		<content src="text/chapter-56.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-64" playOrder="64">
+		<navLabel>
+			<text>LVII How Thorir of Garth set on Grettir on Ernewaterheath</text>
+		</navLabel>
+		<content src="text/chapter-57.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-65" playOrder="65">
+		<navLabel>
+			<text>LVIII Grettir in Fairwoodfell</text>
+		</navLabel>
+		<content src="text/chapter-58.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-66" playOrder="66">
+		<navLabel>
+			<text>LIX Gisli’s meeting with Grettir</text>
+		</navLabel>
+		<content src="text/chapter-59.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-67" playOrder="67">
+		<navLabel>
+			<text>LX Of the Fight at Hitriver</text>
+		</navLabel>
+		<content src="text/chapter-60.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-68" playOrder="68">
+		<navLabel>
+			<text>LXI How Grettir left Fairwoodfell, and of his abiding in Thorir’s-dale</text>
+		</navLabel>
+		<content src="text/chapter-61.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-69" playOrder="69">
+		<navLabel>
+			<text>LXII Of the Death of Hallmund, Grettir’s Friend</text>
+		</navLabel>
+		<content src="text/chapter-62.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-70" playOrder="70">
+		<navLabel>
+			<text>LXIII How Grettir beguiled Thorir of Garth when he was nigh taking him</text>
+		</navLabel>
+		<content src="text/chapter-63.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-71" playOrder="71">
+		<navLabel>
+			<text>LXIV Of the ILL haps at Sand-heaps, and how Guest came to the Goodwife there</text>
+		</navLabel>
+		<content src="text/chapter-64.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-72" playOrder="72">
+		<navLabel>
+			<text>LXV Of Guest and the Troll-wife</text>
+		</navLabel>
+		<content src="text/chapter-65.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-73" playOrder="73">
+		<navLabel>
+			<text>LXVI Of the Dweller in the Cave under the Force</text>
+		</navLabel>
+		<content src="text/chapter-66.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-74" playOrder="74">
+		<navLabel>
+			<text>LXVII Grettir driven from Sand-heaps to the West</text>
+		</navLabel>
+		<content src="text/chapter-67.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-75" playOrder="75">
+		<navLabel>
+			<text>LXVIII How Thorod, the Son of Snorri Godi, went against Grettir</text>
+		</navLabel>
+		<content src="text/chapter-68.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-76" playOrder="76">
+		<navLabel>
+			<text>LXIX How Grettir took leave of his Mother at Biarg, and fared with Illugi his Brother to Drangey</text>
+		</navLabel>
+		<content src="text/chapter-69.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-77" playOrder="77">
+		<navLabel>
+			<text>LXX Of the Bonders who owned Drangey between them</text>
+		</navLabel>
+		<content src="text/chapter-70.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-78" playOrder="78">
+		<navLabel>
+			<text>LXXI How those of Skagafirth found Grettir on Drangey</text>
+		</navLabel>
+		<content src="text/chapter-71.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-79" playOrder="79">
+		<navLabel>
+			<text>LXXII Of the Sports at Heron-ness Thing</text>
+		</navLabel>
+		<content src="text/chapter-72.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-80" playOrder="80">
+		<navLabel>
+			<text>LXXIII The Handselling of Peace</text>
+		</navLabel>
+		<content src="text/chapter-73.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-81" playOrder="81">
+		<navLabel>
+			<text>LXXIV Of Grettir’s Wrestling: and how Thorbiörn Angle now bought the more part of Drangey</text>
+		</navLabel>
+		<content src="text/chapter-74.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-82" playOrder="82">
+		<navLabel>
+			<text>LXXV Thorbiörn Angle goes to Drangey to speak with Grettir</text>
+		</navLabel>
+		<content src="text/chapter-75.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-83" playOrder="83">
+		<navLabel>
+			<text>LXXVI How Noise let the fire out on Drangey, and how Grettir must needs go aland for more</text>
+		</navLabel>
+		<content src="text/chapter-76.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-84" playOrder="84">
+		<navLabel>
+			<text>LXXVII Grettir at the home-stead of Reeks</text>
+		</navLabel>
+		<content src="text/chapter-77.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-85" playOrder="85">
+		<navLabel>
+			<text>LXXVIII Of Haring at Drangey, and the end of him</text>
+		</navLabel>
+		<content src="text/chapter-78.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-86" playOrder="86">
+		<navLabel>
+			<text>LXXIX Of the Talk at the Thing about Grettir’s Outlawry</text>
+		</navLabel>
+		<content src="text/chapter-79.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-87" playOrder="87">
+		<navLabel>
+			<text>LXXX Thorbiörn Angle goes with his Foster-mother out to Drangey</text>
+		</navLabel>
+		<content src="text/chapter-80.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-88" playOrder="88">
+		<navLabel>
+			<text>LXXXI Of the Carline’s evil Gift to Grettir</text>
+		</navLabel>
+		<content src="text/chapter-81.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-89" playOrder="89">
+		<navLabel>
+			<text>LXXXII Grettir sings of his Great Deeds</text>
+		</navLabel>
+		<content src="text/chapter-82.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-90" playOrder="90">
+		<navLabel>
+			<text>LXXXIII How Thorbiörn Angle gathered Force and set Sail for Drangey</text>
+		</navLabel>
+		<content src="text/chapter-83.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-91" playOrder="91">
+		<navLabel>
+			<text>LXXXIV The Slaying of Grettir Asmundson</text>
+		</navLabel>
+		<content src="text/chapter-84.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-92" playOrder="92">
+		<navLabel>
+			<text>LXXXV How Thorbiörn Angle claimed Grettir’s Head-money</text>
+		</navLabel>
+		<content src="text/chapter-85.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-93" playOrder="93">
+		<navLabel>
+			<text>LXXXVI How Thorbiörn Angle brought Grettir’s Head to Biarg</text>
+		</navLabel>
+		<content src="text/chapter-86.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-94" playOrder="94">
+		<navLabel>
+			<text>LXXXVII Affairs at the Althing</text>
+		</navLabel>
+		<content src="text/chapter-87.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-95" playOrder="95">
+		<navLabel>
+			<text>LXXXVIII Thorbiörn Angle goes to Norway, and thence to Micklegarth</text>
+		</navLabel>
+		<content src="text/chapter-88.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-96" playOrder="96">
+		<navLabel>
+			<text>LXXXIX How the Short-Sword was the easier known when sought for by reason of the notch in the blade</text>
+		</navLabel>
+		<content src="text/chapter-89.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-97" playOrder="97">
+		<navLabel>
+			<text>XC How the Lady Spes redeemed Thorstein from the Dungeon</text>
+		</navLabel>
+		<content src="text/chapter-90.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-98" playOrder="98">
+		<navLabel>
+			<text>XCI Of the doings of Thorstein and the Lady Spes</text>
+		</navLabel>
+		<content src="text/chapter-91.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-99" playOrder="99">
+		<navLabel>
+			<text>XCII Of the Oath that Spes made before the Bishop</text>
+		</navLabel>
+		<content src="text/chapter-92.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-100" playOrder="100">
+		<navLabel>
+			<text>XCIII Thorstein and Spes come out to Norway</text>
+		</navLabel>
+		<content src="text/chapter-93.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-101" playOrder="101">
+		<navLabel>
+			<text>XCIV Thorstein Dromund and Spes leave Norway again</text>
+		</navLabel>
+		<content src="text/chapter-94.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-102" playOrder="102">
+		<navLabel>
+			<text>XCV How Thorstein Dromund and Spes fared to Rome and died there</text>
+		</navLabel>
+		<content src="text/chapter-95.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-103" playOrder="103">
+		<navLabel>
+			<text>Notes and Corrections</text>
+		</navLabel>
+		<content src="text/appendix-2.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-104" playOrder="104">
+		<navLabel>
+			<text>Endnotes</text>
+		</navLabel>
+		<content src="text/endnotes.xhtml"/>
+	</navPoint>
+	<navPoint id="navPoint-105" playOrder="105">
+		<navLabel>
+			<text>Copyright &amp; Permissions</text>
+		</navLabel>
+		<content src="text/permissions.xhtml"/>
+	</navPoint>
 	</navMap>
 </ncx>
