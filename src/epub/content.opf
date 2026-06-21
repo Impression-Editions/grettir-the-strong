@@ -18,6 +18,7 @@
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Impression Editions</meta>
 		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessMode">visual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
 		<meta property="schema:accessibilityFeature">displayTransformability</meta>
@@ -84,8 +85,7 @@
 		<item href="fonts/SortsMillGoudy-Italic.woff2" id="SortsMillGoudy-Italic.woff2" media-type="application/vnd.ms-opentype"/>
 		<item href="fonts/SortsMillGoudy-Regular.woff2" id="SortsMillGoudy-Regular.woff2" media-type="application/vnd.ms-opentype"/>
 		<item href="images/cover.source.jpg" id="cover.source.jpg" media-type="image/jpeg"/>
-				<item href="images/cover.source.jpg" id="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
-		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/pg12747_cover.jpg" id="pg12747_cover.jpg" media-type="image/jpeg"/>
 		<item href="images/pg12747_cover_small.jpg" id="pg12747_cover_small.jpg" media-type="image/jpeg"/>
@@ -200,9 +200,9 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="appendix-1.xhtml"/>
-		<itemref idref="appendix-2.xhtml"/>
-		<itemref idref="appendix-5.xhtml"/>
+		<itemref idref="preface-1.xhtml"/>
+		<itemref idref="dramatis-personae.xhtml"/>
+		<itemref idref="map.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
 		<itemref idref="chapter-3.xhtml"/>
@@ -298,10 +298,10 @@
 		<itemref idref="chapter-93.xhtml"/>
 		<itemref idref="chapter-94.xhtml"/>
 		<itemref idref="chapter-95.xhtml"/>
-		<itemref idref="dramatis-personae.xhtml"/>
-		<itemref idref="map.xhtml"/>
-		<itemref idref="preface-1.xhtml"/>
+		<itemref idref="appendix-1.xhtml"/>
+		<itemref idref="appendix-2.xhtml"/>
+		<itemref idref="appendix-5.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="permissions.xhtml"/>
-</spine>
+	</spine>
 </package>
