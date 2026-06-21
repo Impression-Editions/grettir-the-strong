@@ -24,22 +24,40 @@
       "replace": "Budlunga-haven.",
       "reason": "Gerrata errata, scan page 51",
       "context": "On sitting up, all who went to and fro on the road below, must have been within "
+    },
+    {
+      "find": "be-. cause",
+      "replace": "because",
+      "reason": "OCR line-break artifact: hyphenated word split across line",
+      "context": "No Christian man is wont to eat meat this day"
+    },
+    {
+      "find": "Steinulf s head",
+      "replace": "Steinulf's head",
+      "reason": "OCR missing apostrophe in possessive",
+      "context": "Will Steinulf"
+    },
+    {
+      "find": "\u00e1</i>\u2018\u2060\u2014",
+      "replace": "\u00e1</i>\u2019\u2060\u2014",
+      "reason": "Mismatched curly quote: left single quote (U+2018) should be right single quote (U+2019) after Icelandic phrase",
+      "context": "var h\u00e1num vetri f\u00e1tt"
     }
   ],
   "metadata_overrides": {},
   "global_replacements": {
-    "Blaeng": "Blæng",
-    "Haengson": "Hængson",
-    "Saemund": "Sæmund",
-    "Thorbiorn": "Thorbiörn",
-    "Blaengson": "Blængson",
-    "Bloeng": "Blæng",
-    "Snaebiorn": "Snæbiorn",
-    "Snaeskoll": "Snækoll",
+    "Blaeng": "Bl\u00e6ng",
+    "Haengson": "H\u00e6ngson",
+    "Saemund": "S\u00e6mund",
+    "Thorbiorn": "Thorbi\u00f6rn",
+    "Blaengson": "Bl\u00e6ngson",
+    "Bloeng": "Bl\u00e6ng",
+    "Snaebiorn": "Sn\u00e6biorn",
+    "Snaeskoll": "Sn\u00e6koll",
     "Arisen": "Arison",
     "Thorwald": "Thorvald",
-    "Haering": "Hæring",
-    "Snoekoll": "Snækoll",
-    "Solmund": "Sæmund"
+    "Haering": "H\u00e6ring",
+    "Snoekoll": "Sn\u00e6koll",
+    "Solmund": "S\u00e6mund"
   }
 }
