@@ -29,7 +29,7 @@
 	</file>
 	<file path="endnotes.xhtml">
 		<ignore code="t-029">
-			<reason>Abbreviations in endnote text are from scholarly notation (gen. plur. masc., fem. sing.)</reason>
+			<reason>Abbreviations in endnote text are from scholarly notation</reason>
 		</ignore>
 		<ignore code="y-007">
 			<reason>Single quotes in endnote bibliographic references are per scholarly convention</reason>
@@ -61,7 +61,7 @@
 	</file>
 	<file path="preface-1.xhtml">
 		<ignore code="c-021">
-			<reason>Italic 'April' in date is per original 1869 edition formatting</reason>
+			<reason>Italic April in date is per original 1869 edition formatting</reason>
 		</ignore>
 		<ignore code="m-031">
 			<reason>IE does not set MARC relator codes for preface writers</reason>
@@ -73,6 +73,17 @@
 	<file path="titlepage.xhtml">
 		<ignore code="m-045">
 			<reason>Titlepage is not a ToC entry</reason>
+		</ignore>
+	</file>
+	<file path="chapter-*.xhtml">
+		<ignore code="s-021">
+			<reason>Roman numeral + subtitle headings produce correct titles per se build-title; se lint extracts only the Roman numeral, ignoring the subtitle span</reason>
+		</ignore>
+		<ignore code="m-045">
+			<reason>Chapter headings with Roman numerals + subtitle spans are correctly represented in ToC; se lint cannot match the composite heading</reason>
+		</ignore>
+		<ignore code="s-023">
+			<reason>Chapter headings use 1869 capitalization per the original edition; titlecasing would alter the translators style</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
