@@ -95,4 +95,12 @@
 			<reason>Titlepage is not a ToC entry</reason>
 		</ignore>
 	</file>
+	<file path="appendix-5.xhtml">
+		<ignore code="x-019">
+			<reason>Cross-reference return anchors use semantic ids (proverb-list-N), not SE file-stem convention</reason>
+		</ignore>
+		<ignore code="x-5">
+			<reason>↗ cross-reference link character in proverb hyperlinks</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
