@@ -38,26 +38,27 @@
       "context": "Will Steinulf"
     },
     {
-      "find": "\u00e1</i>\u2018\u2060\u2014",
-      "replace": "\u00e1</i>\u2019\u2060\u2014",
+      "find": "á</i>‘⁠—",
+      "replace": "á</i>’⁠—",
       "reason": "Mismatched curly quote: left single quote (U+2018) should be right single quote (U+2019) after Icelandic phrase",
-      "context": "var h\u00e1num vetri f\u00e1tt"
+      "context": "var hánum vetri fátt"
     }
   ],
   "metadata_overrides": {},
   "global_replacements": {
-    "Blaeng": "Bl\u00e6ng",
-    "Haengson": "H\u00e6ngson",
-    "Saemund": "S\u00e6mund",
-    "Thorbiorn": "Thorbi\u00f6rn",
-    "Blaengson": "Bl\u00e6ngson",
-    "Bloeng": "Bl\u00e6ng",
-    "Snaebiorn": "Sn\u00e6biorn",
-    "Snaeskoll": "Sn\u00e6koll",
+    "Blaeng": "Blæng",
+    "Haengson": "Hængson",
+    "Saemund": "Sæmund",
+    "Thorbiorn": "Thorbiörn",
+    "Blaengson": "Blængson",
+    "Bloeng": "Blæng",
+    "Snaebiorn": "Snæbiorn",
+    "Snaeskoll": "Snækoll",
     "Arisen": "Arison",
     "Thorwald": "Thorvald",
-    "Haering": "H\u00e6ring",
-    "Snoekoll": "Sn\u00e6koll",
-    "Solmund": "S\u00e6mund"
+    "Haering": "Hæring",
+    "Snoekoll": "Snækoll",
+    "Solmund": "Sæmund",
+    "á</i>‘⁠—": "á</i>’⁠—"
   }
 }
