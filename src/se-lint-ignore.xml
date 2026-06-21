@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="appendix-5.xhtml">
-		<ignore code="x-5">
-			<reason>↗ cross-reference link character in proverb hyperlinks</reason>
-		</ignore>
 		<ignore code="x-019">
 			<reason>Cross-reference return anchors use semantic ids (proverb-list-N), not SE file-stem convention</reason>
 		</ignore>
