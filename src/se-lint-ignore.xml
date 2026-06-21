@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="appendix-5.xhtml">
+		<ignore code="x-5">
+			<reason>↗ cross-reference link character in proverb hyperlinks</reason>
+		</ignore>
+		<ignore code="x-019">
+			<reason>Cross-reference return anchors use semantic ids (proverb-list-N), not SE file-stem convention</reason>
+		</ignore>
+	</file>
 	<file path="chapter-*.xhtml">
 		<ignore code="m-045">
 			<reason>Chapter headings with Roman numerals + subtitle spans are correctly represented in ToC</reason>
@@ -93,14 +101,6 @@
 	<file path="titlepage.xhtml">
 		<ignore code="m-045">
 			<reason>Titlepage is not a ToC entry</reason>
-		</ignore>
-	</file>
-	<file path="appendix-5.xhtml">
-		<ignore code="x-019">
-			<reason>Cross-reference return anchors use semantic ids (proverb-list-N), not SE file-stem convention</reason>
-		</ignore>
-		<ignore code="x-5">
-			<reason>↗ cross-reference link character in proverb hyperlinks</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
