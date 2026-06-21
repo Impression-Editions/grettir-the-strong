@@ -24,6 +24,9 @@
 		<ignore code="s-072">
 			<reason>Single Roman numeral span is required by se semantics; not a style violation</reason>
 		</ignore>
+		<ignore code="x-019">
+			<reason>Proverb cross-reference anchors on paragraphs use semantic ids, not SE file-stem-p-N convention</reason>
+		</ignore>
 	</file>
 	<file path="content.opf">
 		<ignore code="m-036">
