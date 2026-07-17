@@ -1,0 +1,39 @@
+In THE STORY OF GRETTIR THE STRONG, by , [EBook #12747],
+File: 12747.txt,
+I verified the following changes against the Internet Archive scan:
+https://archive.org/details/storyofgrettirst00eiri
+NOTE: Page numbers are 'of the scan' not 'of the book.'
+
+Global Replacements {
+Blaeng ==> Blæng
+Haengson ==> Hængson
+Saemund ==> Sæmund
+Thorbiorn ==> Thorbiörn
+Blaengson ==> Blængson
+Bloeng ==> Blæng
+Snaebiorn ==> Snæbiorn
+Snaeskoll ==> Snækoll
+Arisen ==> Arison
+Thorwald ==> Thorvald
+Haering ==> Hæring
+Snoekoll ==> Snækoll
+Solmund ==> Sæmund
+}
+
+
+Page 51 (https://archive.org/details/storyofgrettirst00eiri/page/n51/mode/1up):
+Now it is to be told of Flosi that he sent to his kin in Ingolfs-firth and Ufeigh's-firth, and for Olaf Eyvindson, who then dwelt at Drangar; and Flosi came first to the whale, with the men of Wick, then they fell to cutting up the whale, and what was cut was forthwith sent ashore; near twenty men were thereat at first, but soon folk came thronging thither.
+Wick, ==> the Creek,
+
+https://archive.org/details/storyofgrettirst00eiri/page/86/mode/1up?q=%22and+my+faring+I+will+not+have+laid%22
+" "Well mightest thou, methinks, have full freedom as to thine own redes," said Grettir, "and my faring I will not have laid under the choice of other folk; and I shall mislike it if thou easiest me aside from thy fellowship.
+easiest ==> castest
+
+https://archive.org/details/storyofgrettirst00eiri/page/114/mode/1up?q=%22do+I+deem+myself+as+before%22
+" Said Thorbiorn, "About as feign do I deem myself as before, despite thy squealing.
+feign ==> feigh
+
+https://archive.org/details/storyofgrettirst00eiri/page/277/mode/1up?q=%22from+the+north+of+Foxplain%22
+On sitting up, all who went to and fro on the road below, must have been within view; not only those who came from the north of Foxplain (Melrakkaslètta) and Nupa-sveit, but also far toward the north he had a view even unto the open sea, nay, even unto Budluga-haven.
+Budluga-haven. ==> Budlunga-haven.
+
